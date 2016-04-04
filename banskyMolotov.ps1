@@ -1,0 +1,1 @@
+$text = Get-Content -Raw C:\Dev\scripts\asciiArt\molotov.txt | Write-Host
